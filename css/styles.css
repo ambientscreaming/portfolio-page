@@ -1,0 +1,18 @@
+.img {
+    float: center;
+}
+
+.header {
+    font-size: 48px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.about {
+    text-align: center;
+
+}
+
+.italic {
+    font-style: oblique;
+}
