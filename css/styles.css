@@ -1,18 +1,42 @@
+body {
+    background-color: lavender;
+
+}
+
 .img {
-    float: center;
+    align-items: center;
 }
 
 .header {
-    font-size: 48px;
+    font-size: 36px;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .about {
     text-align: center;
-
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .italic {
     font-style: oblique;
+}
+
+.column {
+    border: 5px rgb(211, 149, 3);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 6px;
+    float: left;
+    width: 400px;
+    margin: 10px;
+    text-align: center;
+
+}
+
+.box1 {
+    width: 50%;
+    border: solid white;
+    border-width: 20px;
+    margin-bottom: 10px;
+    padding: 20px;
 }
