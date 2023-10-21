@@ -99,8 +99,9 @@ h1 {
 }
 
 .noBugs {
-    float: right;
-    display: block;
-    width: 10px;
-    height: auto;
+    padding: 100px;
+}
+
+ol {
+    padding-top: 60px;
 }
