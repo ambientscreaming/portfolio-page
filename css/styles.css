@@ -101,4 +101,6 @@ h1 {
 .noBugs {
     float: right;
     display: block;
+    width: 10px;
+    height: auto;
 }
