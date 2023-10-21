@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'organicalFont';
-    src: url('~drive/desktop/fonts/organical.ttf') format("truetype");
+    src: url(fonts/organical.ttf) format("truetype");
 }
 
 
@@ -107,6 +107,11 @@ h1 {
 
 .noBugs {
     padding: 100px;
+    float: right;
+}
+
+.bugImage {
+    width: 500px;
 }
 
 ol {
