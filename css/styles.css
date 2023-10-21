@@ -97,3 +97,8 @@ h1 {
 .clickMe {
     color: rgb(60, 0, 115);
 }
+
+.noBugs {
+    float: right;
+    display: block;
+}
