@@ -41,9 +41,13 @@ body {
     font-size: 14px;
     padding: 24px;
     text-align: center;
-    width: 33%;
+    width: 100%;
     flex: 1;
     display: flex;
+
+    @media (min-width: 768px) {
+        width: 33%;
+    }
 }
 
 .box {
